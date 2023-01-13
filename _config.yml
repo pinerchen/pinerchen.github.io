@@ -2,7 +2,7 @@
 name: 'Grind Turbo'
 description: 'Grinding data before you turbo it'
 logo: '/assets/images/logo_transparent.png'
-favicon: 'assets/images/favicon.ico'
+favicon: '/assets/images/favicon.ico'
 baseurl: ''
 disqus: 'demowebsite'
 email: 'camille.chen@grindturbo.com'
