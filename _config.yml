@@ -1,12 +1,14 @@
 # Site
+locale: "zh-TW"
 name: 'Grind Turbo'
 description: 'Grinding data before you turbo it'
 logo: '/assets/images/logo_transparent.png'
-favicon: '/assets/images/favicon.ico'
+favicon: 'assets/images/favicon.ico'
 baseurl: ''
-disqus: 'demowebsite'
+url: 'https://pinerchen.github.io/'
+# disqus: 'demowebsite'
 email: 'camille.chen@grindturbo.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
 permalink: /:title/
@@ -21,7 +23,7 @@ plugins:
 authors:
     camille:
       name: Camille
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         assets/images/camille.jpg
       bio: "Hi, this is Camille"
       email: camille.chen@grindturbo.com
  
@@ -34,7 +36,7 @@ defaults:
     values:
       layout: post
       author: camille
-      avatar: /assets/images/avatar1.jpg
+      avatar: assets/images/camille.jpg
       
   # all pages
   - scope:

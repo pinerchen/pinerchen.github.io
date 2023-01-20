@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "原廠設定"
-author: jane
+author: camille
 categories: [ 認識自己 ]
 image: assets/images/home.jpg
 ---
