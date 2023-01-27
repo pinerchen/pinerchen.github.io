@@ -2,17 +2,5 @@
 title: "Contact"
 permalink: "/contact.html"
 ---
-
-<form action="https://formspree.io/{{site.email}}" method="POST">    
-<p class="mb-4">Please send your message to {{site.name}}. We will reply as soon as possible!</p>
-<div class="form-group row">
-<div class="col-md-6">
-<input class="form-control" type="text" name="name" placeholder="Name*" required>
-</div>
-<div class="col-md-6">
-<input class="form-control" type="email" name="_replyto" placeholder="E-mail Address*" required>
-</div>
-</div>
-<textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>    
-<input class="btn btn-success" type="submit" value="Send">
-</form>
+<p class="mb-4">歡迎您登入 Gmail，預約任意以下時段！</p>
+<p><iframe style="width:100%;" height="800" src="https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUw1RmdYWHhnNWVsfGRlZmF1bHR8Njc5YTI3OTFmZmYwMjQ4YWVjMzYwM2VhZDU3NTQ2ZTk" frameborder="0" allowfullscreen></iframe></p>
