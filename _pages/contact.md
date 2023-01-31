@@ -1,6 +1,10 @@
 ---
-title: "Contact"
+title: "Office Hour"
 permalink: "/contact.html"
 ---
-<p class="mb-4">歡迎您登入 Gmail，預約任意以下時段！</p>
-<p><iframe style="width:100%;" height="800" src="https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUw1RmdYWHhnNWVsfGRlZmF1bHR8Njc5YTI3OTFmZmYwMjQ4YWVjMzYwM2VhZDU3NTQ2ZTk" frameborder="0" allowfullscreen></iframe></p>
+<p class="mb-4">歡迎和我預約 30 分鐘的時間！</p>
+
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/grindturbo/30min" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
