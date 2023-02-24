@@ -7,7 +7,7 @@ favicon: 'assets/images/favicon.ico'
 baseurl: ''
 url: 'https://pinerchen.github.io/'
 # disqus: 'demowebsite'
-email: 'camille.chen@grindturbo.com'
+email: 'chanpiner518@gmail.com'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -24,7 +24,7 @@ authors:
     camille:
       name: Camille
       avatar:         assets/images/camille.jpg
-      email: camille.chen@grindturbo.com
+      email: chanpiner518@gmail.com
       bio: "30歲前喜歡長途背包旅行、充滿好奇心也喜歡探險\n疫情發生後，維持這樣的生活模式大概只有創業了！"
  
 # Defaults
