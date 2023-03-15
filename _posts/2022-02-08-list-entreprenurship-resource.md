@@ -3,7 +3,8 @@ layout: post
 title:  "一刷再刷的創業資源清單"
 author: camille
 categories: [ 清單, Happy CEO, 創業 ]
-image: assets/images/automobile-g3e301a250_640.jpg
+image: assets/images/layout/PCNA22_0938.jpg
+tags: featured
 ---
 
 ## 前言
@@ -32,6 +33,8 @@ image: assets/images/automobile-g3e301a250_640.jpg
 - （美劇）誰是接班人
     - 這部締造的經典的川普 You're fired! 總共有 15 季，最早的一季 2004 年拍的，畫質有點模糊，不過我還是在每集的挑戰者中看到很多可以學習的面向。
     - 需自行找尋片源。
+- (美劇) [silicon valley](https://zh.wikipedia.org/zh-tw/%E7%A1%85%E8%B0%B7_(%E7%94%B5%E8%A7%86%E5%89%A7))
+    - Grace 推薦必看，裡面很多發生的事都很精準的描述了矽谷新創的現象。
 
 ## 書
 - Dear Founder
@@ -53,12 +56,20 @@ image: assets/images/automobile-g3e301a250_640.jpg
     - 有創業念頭的人，沒有人不知道這個組織， [YC Combinator](https://www.ycombinator.com/) 是創業孵化器的始祖，網站內可以找到 [Startup School](https://www.startupschool.org/dashboard)，註冊後需要填寫個人學經歷等等的資料，完成後就能
 - [Stanford Startup course](http://startupclass.samaltman.com/)
 
+## 系列文章
+- Mr.Picky
+    - SaSS 軟體，對軟體需求到架構到實做感興趣的人，作者分享自己所經歷的個人[故事](https://mrpicky.dev/see-how-i-failed-at-my-saas-idea-and-what-you-will-gain-from-it/)。
+
 ## 人
 - Zow Chew [[Notion](https://whizzoe.notion.site/whizzoe/Portfolio-Tracker-2-0-707ff5ec560149cb885345290c0f3608)]
     - No-Code 創業家，發表了非常多作品，還有創業驗證產品相關的文章，還是一個 Productive 的人 
-- 曹婷婷 [[知乎](https://www.zhihu.com/people/cao-ting-ting)]
+- 曹婷婷 [[知乎](https://www.zhihu.com/people/cao-ting-ting)
     - 一個什麼事情都喜歡分析的人，戰略藝術家
-- Noah Kagan [[Youtube](https://www.youtube.com/@noahkagan)]
+- Noah Kagan [[Youtube](https://www.youtube.com/@noahkagan)
+
+## 公司
+- GitLab [Handbook](https://about.gitlab.com/handbook/)、[GitLab unfiltered Channel](https://www.youtube.com/@GitLabUnfiltered/featured)
+    - 官方不藏私記錄著 Gitlab 公司所有的溝通文件，以及所有開會的錄影
 
 ---
 ## 免責聲明
