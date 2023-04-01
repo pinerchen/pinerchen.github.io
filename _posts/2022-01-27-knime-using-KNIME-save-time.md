@@ -3,8 +3,8 @@ layout: post
 title:  "KNIME 成為你的自動化數據處理工具"
 author: camille
 categories: [ 數據處理, KNIME ]
-image: assets/images/automobile-g3e301a250_640.jpg
-tags: [featured ]
+image: assets/images/layout/automobile-g3e301a250_640.jpg
+tags: [featured]
 ---
 ### 痛點
 每個月下載營運報表，接著在幾個固定的欄位套用既定的公式，再從上個月的表格複製呈現格式嗎？

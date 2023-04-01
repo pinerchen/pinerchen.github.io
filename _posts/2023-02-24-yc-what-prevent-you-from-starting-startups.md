@@ -3,7 +3,7 @@ layout: post
 title:  "是什麼阻止你創業？"
 author: camille
 categories: [ 創業, 筆記, YC ]
-image: assets/images/automobile-g3e301a250_640.jpg
+image: assets/images/layout/S22_3315.jpeg
 ---
 
 Paul Grahmam 是 YC 的創辦人，這是我讀 Paul 整理的 16 個常見因素阻止你開始創業的筆記、個人階段性的心得和觀點，你也可以在 Paul 部落格閱讀到這篇納入 YC 教材的[文章](http://www.paulgraham.com/notnot.html)。
