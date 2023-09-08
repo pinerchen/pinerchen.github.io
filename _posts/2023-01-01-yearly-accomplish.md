@@ -24,5 +24,8 @@ tags: [featured]
     - (worksheet) [建立健康伴侶關係的 40 個練習](https://positivepsychology.com/healthy-relationships-worksheets/)
         - 每個標題下都有一個pdf檔練習，我把全部統整到一份，需要的夥伴可以私訊我。
 
+- 開始以自己為出發點
+    - 以前總是覺得那個東西好酷喔，那堂課很有用耶；現在改成考量自己的行事曆可不可以容納新的這件事，或是真正去想這件事對我的意義在哪。
 - 參加商業思維學院 產品經理實戰課 at 2023-03-03
 - Side Project w/ Lucy & Luke
+

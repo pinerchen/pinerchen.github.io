@@ -44,3 +44,6 @@ tags: [featured]
 15. 從有興趣的學習 vs 從遇到的問題找答案學習.
 
 16. 找不到答案，嘗試一直問自己 why.
+
+17. 系統思維、框架思維
+    https://rpdc.xiaohongshu.com/52-design-principles
